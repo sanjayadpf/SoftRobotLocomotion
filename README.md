@@ -1,4 +1,18 @@
+# **GRAP Work**
+
+For the Imapct force data - Raw Data for 4 different frequencies.
+
+Model without Friction
+
+simscape_model_V0.slx
+
+For the Model with Friction Model
+
+Examples-> 3D -> Simple -> Friction ->Frict3D_01_Box_on_Table_edited.slx
+
 # **Simscape Multibody Contact Forces Library**
+
+
 Copyright 2014-2020 The MathWorks, Inc.
 
 [![View Simscape Multibody Contact Forces Library on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library)
