@@ -1,6 +1,6 @@
 # **GRAP Work - Sanjaya**
 
-**For the Imapct force data ->** Raw Data for 4 different frequencies.
+**For the Impact force data ->** Raw Data for 4 different frequencies.
 
 **Model without Friction**
 
