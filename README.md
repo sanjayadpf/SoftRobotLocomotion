@@ -1,12 +1,12 @@
-# **GRAP Work**
+# **GRAP Work - Sanjaya**
 
-For the Imapct force data - Raw Data for 4 different frequencies.
+**For the Imapct force data ->** Raw Data for 4 different frequencies.
 
-Model without Friction
+**Model without Friction**
 
 simscape_model_V0.slx
 
-For the Model with Friction Model
+**For the Model with Friction Model**
 
 Examples-> 3D -> Simple -> Friction ->Frict3D_01_Box_on_Table_edited.slx
 
